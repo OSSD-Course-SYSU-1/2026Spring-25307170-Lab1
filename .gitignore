@@ -1,0 +1,40 @@
+# HarmonyOS Build Outputs
+build/
+.hvigor/
+*.hap
+*.app
+*.so
+*.zip
+
+# IDE Configuration
+.idea/
+*.iml
+.vscode/
+
+# Dependencies
+oh_modules/
+node_modules/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Local Configuration
+local.properties
+*.local.json5
+
+# Signing & Credentials
+*.p12
+*.p7b
+*.cer
+signing-config/
+
+# Test Coverage
+coverage/
+.nyc_output/
+
+# Cache
+.cache/
+*.cache
