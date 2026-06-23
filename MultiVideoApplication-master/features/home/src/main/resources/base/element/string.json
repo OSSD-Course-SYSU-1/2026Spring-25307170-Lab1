@@ -1,0 +1,180 @@
+{
+  "string": [
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_development",
+      "value": "动态"
+    },
+    {
+      "name": "tab_member",
+      "value": "会员购"
+    },
+    {
+      "name": "tab_mine",
+      "value": "我的"
+    },
+    {
+      "name": "sift",
+      "value": "精选"
+    },
+    {
+      "name": "home_video",
+      "value": "视频"
+    },
+    {
+      "name": "community",
+      "value": "社区"
+    },
+    {
+      "name": "news",
+      "value": "新闻"
+    },
+    {
+      "name": "shop",
+      "value": "购物"
+    },
+    {
+      "name": "science",
+      "value": "科技"
+    },
+    {
+      "name": "finance",
+      "value": "财经"
+    },
+    {
+      "name": "history",
+      "value": "历史"
+    },
+    {
+      "name": "affairs",
+      "value": "军事"
+    },
+    {
+      "name": "home_all",
+      "value": "全部"
+    },
+    {
+      "name": "heat_list",
+      "value": "周热榜"
+    },
+    {
+      "name": "free",
+      "value": "免费"
+    },
+    {
+      "name": "sutra",
+      "value": "经典"
+    },
+    {
+      "name": "prefecture",
+      "value": "专区"
+    },
+    {
+      "name": "kids_only",
+      "value": "儿童专区"
+    },
+    {
+      "name": "zone",
+      "value": "华为专区"
+    },
+    {
+      "name": "Premium_products",
+      "value": "付费精品"
+    },
+    {
+      "name": "Fitness",
+      "value": "健身专区"
+    },
+    {
+      "name": "new",
+      "value": "新  品  发  布  会"
+    },
+    {
+      "name": "folding",
+      "value": "折叠旗舰及全场景"
+    },
+    {
+      "name": "home_cultural",
+      "value": "建筑人文史迹"
+    },
+    {
+      "name": "home_europe",
+      "value": "欧洲建筑的历史责任在载对欧洲建筑风格的形成和"
+    },
+    {
+      "name": "life",
+      "value": "华为全场景智慧生活"
+    },
+    {
+    "name": "landscape",
+    "value": "数百万年前，地貌形成"
+    },
+    {
+      "name": "explore",
+      "value": "生命之源:探索生命之源"
+    },
+    {
+      "name": "source",
+      "value": "探索生命之源"
+    },
+    {
+      "name": "lonely",
+      "value": "孤独者"
+    },
+    {
+      "name": "film",
+      "value": "电影 · 剧情片 · 2008年上"
+    },
+    {
+      "name": "home_plays",
+      "value": "75.2万次播放"
+    },
+    {
+      "name": "release",
+      "value": "新片发布"
+    },
+    {
+      "name": "tablet",
+      "value": "每日佳片"
+    },
+    {
+      "name": "back",
+      "value": "往期回顾"
+    },
+    {
+      "name": "follow",
+      "value": "关注"
+    },
+    {
+      "name": "play_on",
+      "value": "继续播放"
+    },
+    {
+      "name": "home_player",
+      "value": "播放"
+    },
+    {
+      "name": "home_cache",
+      "value": "缓存"
+    },
+    {
+      "name": "home_search",
+      "value": "搜索..."
+    },
+    {
+      "name": "binge_watch",
+      "value": "追剧"
+    },
+    {
+      "name": "Collect",
+      "value": "Collect"
+    },
+    {
+      "name": "like",
+      "value": "点赞"
+    }
+  ]
+}

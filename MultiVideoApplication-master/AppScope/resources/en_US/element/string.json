@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "MultiVideoApplication"
+    },
+    {
+      "name": "need_distributed_permission",
+      "value": "Distributed permission required"
+    },
+    {
+      "name": "migration_failed",
+      "value": "Migration failed"
+    },
+    {
+      "name": "pull_back_confirm",
+      "value": "Confirm pull back to source device?"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "confirm",
+      "value": "Confirm"
+    }
+  ]
+}

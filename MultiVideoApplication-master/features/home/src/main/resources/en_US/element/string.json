@@ -1,0 +1,180 @@
+{
+  "string": [
+    {
+      "name": "tab_home",
+      "value": "home"
+    },
+    {
+      "name": "tab_development",
+      "value": "develop"
+    },
+    {
+      "name": "tab_member",
+      "value": "member"
+    },
+    {
+      "name": "tab_mine",
+      "value": "my"
+    },
+    {
+      "name": "sift",
+      "value": "Sift"
+    },
+    {
+      "name": "home_video",
+      "value": "Video"
+    },
+    {
+      "name": "community",
+      "value": "Area"
+    },
+    {
+      "name": "news",
+      "value": "News"
+    },
+    {
+      "name": "shop",
+      "value": "Shop"
+    },
+    {
+      "name": "science",
+      "value": "Science"
+    },
+    {
+      "name": "finance",
+      "value": "Finance"
+    },
+    {
+      "name": "history",
+      "value": "History"
+    },
+    {
+      "name": "affairs",
+      "value": "Affairs"
+    },
+    {
+      "name": "home_all",
+      "value": "all"
+    },
+    {
+      "name": "heat_list",
+      "value": "heat list"
+    },
+    {
+      "name": "free",
+      "value": "free"
+    },
+    {
+      "name": "sutra",
+      "value": "sutra"
+    },
+    {
+      "name": "prefecture",
+      "value": "prefecture"
+    },
+    {
+      "name": "kids_only",
+      "value": "kids only"
+    },
+    {
+      "name": "zone",
+      "value": "HUAWEI zone"
+    },
+    {
+      "name": "Premium_products",
+      "value": "pay products"
+    },
+    {
+      "name": "Fitness",
+      "value": "fitness area"
+    },
+    {
+      "name": "new",
+      "value": "New product distribution meeting"
+    },
+    {
+      "name": "folding",
+      "value": "Folding flagship and full scene"
+    },
+    {
+      "name": "home_cultural",
+      "value": "Architectural cultural and historical sites"
+    },
+    {
+      "name": "home_europe",
+      "value": "The historical responsibility of European architecture lies in the formation and development of European architectural styles"
+    },
+    {
+      "name": "life",
+      "value": "Huawei full scene smart life"
+    },
+    {
+      "name": "landscape",
+      "value": "Millions of years ago, the landscape was formed"
+    },
+    {
+      "name": "explore",
+      "value": "The source of life: to explore the source of life"
+    },
+    {
+      "name": "source",
+      "value": "To explore the source of life"
+    },
+    {
+      "name": "lonely",
+      "value": "lonely"
+    },
+    {
+      "name": "film",
+      "value": "Film · Feature Film · 2008"
+    },
+    {
+      "name": "home_plays",
+      "value": "752,000 plays"
+    },
+    {
+      "name": "release",
+      "value": "New film release"
+    },
+    {
+      "name": "tablet",
+      "value": "Daily best tablet"
+    },
+    {
+      "name": "back",
+      "value": "Look back"
+    },
+    {
+      "name": "follow",
+      "value": "follow"
+    },
+    {
+      "name": "play_on",
+      "value": "Play on"
+    },
+    {
+      "name": "home_player",
+      "value": "play"
+    },
+    {
+      "name": "home_cache",
+      "value": "cache"
+    },
+    {
+      "name": "home_search",
+      "value": "Search..."
+    },
+    {
+      "name": "binge_watch",
+      "value": "Watch"
+    },
+    {
+      "name": "Collect",
+      "value": "Collect"
+    },
+    {
+      "name": "like",
+      "value": "Like"
+    }
+  ]
+}

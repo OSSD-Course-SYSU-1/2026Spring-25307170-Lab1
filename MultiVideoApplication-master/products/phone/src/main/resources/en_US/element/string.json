@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiVideoApplication"
+    },
+    {
+      "name": "permission_distributed_datasync_reason",
+      "value": "Used for cross-device video streaming"
+    },
+    {
+      "name": "select_target_device",
+      "value": "Select Target Device"
+    },
+    {
+      "name": "no_device_found",
+      "value": "No devices found. Make sure devices are on the same network"
+    },
+    {
+      "name": "discovering_devices",
+      "value": "Discovering devices..."
+    },
+    {
+      "name": "migration_failed",
+      "value": "Migration failed, please retry"
+    },
+    {
+      "name": "need_distributed_permission",
+      "value": "Distributed permission is required to cast video to other devices"
+    },
+    {
+      "name": "pull_back_confirm",
+      "value": "Pull back to this device?"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "confirm",
+      "value": "Confirm"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "MultiVideoApplication"
+    },
+    {
+      "name": "need_distributed_permission",
+      "value": "需要分布式权限"
+    },
+    {
+      "name": "migration_failed",
+      "value": "迁移失败"
+    },
+    {
+      "name": "pull_back_confirm",
+      "value": "确认拉回到源设备？"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    }
+  ]
+}
