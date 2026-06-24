@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "search",
+      "value": "Search 1"
+    },
+    {
+      "name": "top",
+      "value": "top"
+    },
+    {
+      "name": "theater",
+      "value": "theater"
+    },
+    {
+      "name": "movie",
+      "value": "movie"
+    },
+    {
+      "name": "variety",
+      "value": "variety"
+    },
+    {
+      "name": "anime",
+      "value": "anime"
+    },
+    {
+      "name": "children",
+      "value": "children"
+    },
+    {
+      "name": "records",
+      "value": "records"
+    },
+    {
+      "name": "tv",
+      "value": "Huawei member TV Theater"
+    },
+    {
+      "name": "search_cultural",
+      "value": "Architectural cultural and historical sites"
+    },
+    {
+      "name": "search_europe",
+      "value": "The historical responsibility of European architecture lies in the formation and development of European architectural styles"
+    },
+    {
+      "name": "history_search",
+      "value": "Search history"
+    },
+    {
+      "name": "content",
+      "value": "content"
+    },
+    {
+      "name": "find",
+      "value": "Search and find"
+    },
+    {
+      "name": "search1",
+      "value": "Search..."
+    },
+    {
+      "name": "conference",
+      "value": "Huawei Conference"
+    },
+    {
+      "name": "search_all",
+      "value": "all"
+    },
+    {
+      "name": "filmer",
+      "value": "film"
+    },
+    {
+      "name": "search_video",
+      "value": "video"
+    },
+    {
+      "name": "user",
+      "value": "user"
+    },
+    {
+      "name": "flagship",
+      "value": "Huawei's flagship product launch event"
+    },
+    {
+      "name": "press",
+      "value": "Conference · Huawei Terminal · 202..."
+    },
+    {
+      "name": "search_plays",
+      "value": "98,000 plays"
+    },
+    {
+      "name": "search_player",
+      "value": "play"
+    },
+    {
+      "name": "search_cache",
+      "value": "cache"
+    }
+  ]
+}

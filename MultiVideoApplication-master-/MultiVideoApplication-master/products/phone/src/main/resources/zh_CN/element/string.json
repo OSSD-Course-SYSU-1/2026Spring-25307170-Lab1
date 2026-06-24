@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "一多开发实例-视频"
+    },
+    {
+      "name": "permission_distributed_datasync_reason",
+      "value": "用于跨设备流转视频播放"
+    },
+    {
+      "name": "select_target_device",
+      "value": "选择目标设备"
+    },
+    {
+      "name": "no_device_found",
+      "value": "未发现可用设备，请确保设备在同一网络"
+    },
+    {
+      "name": "discovering_devices",
+      "value": "正在发现设备..."
+    },
+    {
+      "name": "migration_failed",
+      "value": "迁移失败，请重试"
+    },
+    {
+      "name": "need_distributed_permission",
+      "value": "需要分布式权限才能将视频投放到其他设备"
+    },
+    {
+      "name": "pull_back_confirm",
+      "value": "是否拉回本机播放？"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    }
+  ]
+}
