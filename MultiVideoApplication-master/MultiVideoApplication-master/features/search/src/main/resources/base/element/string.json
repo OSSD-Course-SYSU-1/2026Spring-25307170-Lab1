@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "search",
+      "value": "搜索发现1"
+    },
+    {
+      "name": "top",
+      "value": "热搜"
+    },
+    {
+      "name": "theater",
+      "value": "剧场"
+    },
+    {
+      "name": "movie",
+      "value": "电影"
+    },
+    {
+      "name": "variety",
+      "value": "综艺"
+    },
+    {
+      "name": "anime",
+      "value": "动漫"
+    },
+    {
+      "name": "children",
+      "value": "儿童"
+    },
+    {
+      "name": "records",
+      "value": "记录"
+    },
+    {
+      "name": "tv",
+      "value": "华为会员电视剧场"
+    },
+    {
+      "name": "search_cultural",
+      "value": "建筑人文史迹"
+    },
+    {
+      "name": "search_europe",
+      "value": "欧洲建筑的历史责任在载对欧洲建筑风格的形成和"
+    },
+    {
+      "name": "history_search",
+      "value": "搜索历史"
+    },
+    {
+      "name": "content",
+      "value": "搜索内容"
+    },
+    {
+      "name": "find",
+      "value": "搜索发现"
+    },
+    {
+      "name": "search1",
+      "value": "搜索..."
+    },
+    {
+      "name": "conference",
+      "value": "华为发布会"
+    },
+    {
+      "name": "search_all",
+      "value": "All"
+    },
+    {
+      "name": "filmer",
+      "value": "影视"
+    },
+    {
+      "name": "search_video",
+      "value": "短视频"
+    },
+    {
+      "name": "user",
+      "value": "用户"
+    },
+    {
+      "name": "flagship",
+      "value": "华为旗舰新品发布会"
+    },
+    {
+      "name": "press",
+      "value": "发布会 · 华为终端 · 202..."
+    },
+    {
+      "name": "search_plays",
+      "value": "9.8万次播放"
+    },
+    {
+      "name": "search_player",
+      "value": "播放"
+    },
+    {
+      "name": "search_cache",
+      "value": "缓存"
+    }
+  ]
+}
